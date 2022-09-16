@@ -1,0 +1,24 @@
+Tools yang Digunakan:
+- Google Classroom
+- Github Classroom
+- Git
+- Github
+- Visual Studio Code
+- NodeJS
+
+
+Ekstensi yang butuh untuk dipasang di Browser :
+
+React Dev Tools ( Pertemuan 4 )
+- Redux Dev Tools ( Pertemuan 11 )
+
+Mas Agus
+
+Bisa menggunakan "node version manager" ( nvm )
+
+CTRL + SHIFT + P
+- Shell Command : Install `code` command in PATH
+
+[ BLM ]
+" Git " default branch adalah " master "
+" Github " default branch adalah " main "
